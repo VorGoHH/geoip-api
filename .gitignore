@@ -1,0 +1,11 @@
+target
+.classpath
+.DS_Store
+.vscode
+.factorypath
+.settings
+.project
+.idea
+*.iml
+
+dump.rdb
